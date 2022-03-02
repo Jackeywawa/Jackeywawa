@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jackeywawa
+- 👋 Hi, I’m @Jackeywawa.
 - 👀 I’m interested in C++, C#, Unity and Unreal Game Engine.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking for advice on my code and how to write reusuable, efficient code.
+- 🌱 I’m currently learning Scala.
+- 💞️ I’m always open to advice on writing better code and using practical features.
 - 📫 How to reach me 
 Email: jackiewawa117@gmail.com
 Discord: Jackiewawa#1575
